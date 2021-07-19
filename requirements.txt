@@ -1,0 +1,3 @@
+pandas
+xlsxwriter
+boto3
